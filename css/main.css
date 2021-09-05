@@ -1,0 +1,38 @@
+
+body{
+
+    background: url(https://res.cloudinary.com/dihgrdzso/image/upload/v1630793334/Multimedia/software-developer-6521720_1920_ud4clb.jpg);
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+
+}
+
+#formulario1{
+    color: white;
+    border: 10px;
+    margin: 20%,30%;
+    border-color: black;
+    text-justify: auto;
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+}
+
+#icon{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+
+}
+
+input{
+    flex-grow: 1;
+    margin-bottom: 30px;
+    display: inline;
+
+}
+
